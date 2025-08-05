@@ -3,11 +3,11 @@ class Book:
         self.title=title
         self.author=author
         self.year=year
-    def display(self):
+    def summery(self):
         print(f"Book Summary:\nTitle: {self.title}\nAuthor: {self.author}\nPublished: {self.year}")
 title=input("enter Title: ")
 author=input("enter the author name: ")
 year=int(input("enter the input year: "))
 
 b1=Book(title,author,year)
-b1.display()
+b1.summery()
