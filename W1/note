@@ -1,0 +1,22 @@
+Types of applications 
+- Native application (Android- java , kotlin apple- Swift Cross platform - flutter, react)
+- Hybrid application - like the web interface but it is app (adobe phonegap, ionic, cordova)
+- Web application - using through browser ( also have progressive web application it is also same feature but it shows in the home page of mobile.(PWA)
+
+AJAX- Update specific area in website . Website motham refresh cheyathe oru specific part maathram refresh cheyan vendi . Eg chat section in facebook or insta. Ith okay cheyunnath ajax use cheythittan
+
+Bootstrap is a **framework** of website designing 
+
+Static website design: there is no more user interaction in website
+
+JavaScript library - React.js, Angular.js, vue.js
+
+Framework :-
+Php frameworks -laravel, codeigniter
+Node.js - express
+Go- echo
+Python -django
+
+MEAN STACK- MondoDB, node.js Express, Angular, Node.js
+
+MERN STACK- MondoDB, node.js Express, React, Node.js
